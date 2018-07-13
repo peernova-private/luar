@@ -12,7 +12,7 @@ import (
 	"sync"
 
 	"github.com/peernova-private/golua/lua"
-	"github.com/stevedonovan/luar"
+	"github.com/peernova-private/luar"
 )
 
 func Example() {

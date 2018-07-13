@@ -4,7 +4,7 @@ import (
 	"errors"
 	"reflect"
 
-	"github.com/aarzilli/golua/lua"
+	"github.com/peernova-private/golua/lua"
 )
 
 // LuaObject encapsulates a Lua object like a table or a function.

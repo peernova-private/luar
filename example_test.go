@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/aarzilli/golua/lua"
+	"github.com/peernova-private/golua/lua"
 	"github.com/stevedonovan/luar"
 )
 
